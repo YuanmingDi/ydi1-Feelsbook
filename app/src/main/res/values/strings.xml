@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ydi1-Feelsbook</string>
+    <string name="addJoy">Add joy</string>
+    <string name="addLove">Add love</string>
+    <string name="addSurprise">Add surprise</string>
+    <string name="addAnger">Add anger</string>
+    <string name="addSadness">Add sadness</string>
+    <string name="addFear">Add fear</string>
+    <string name="history">History</string>
+    <string name="comment">Optional Comment</string>
+    <string name="editText">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="counterView"></string>
+    <string-array name="emotions">
+        <item>love</item>
+        <item>joy</item>
+        <item>surprise</item>
+        <item>anger</item>
+        <item>sadness</item>
+        <item>fear</item>
+    </string-array>
+    <string name="lineView">edit line</string>
+</resources>
